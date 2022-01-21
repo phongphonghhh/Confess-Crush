@@ -1,8 +1,10 @@
 const CONFIG = {
     titleWeb: "Yêu Minh Sao",
     introTitle: 'Minh Sao',
-    introDesc: `Bước vào tiệm giày rồi đi ra
-Vì chẳng có đôi nào đẹp bằng đôi ta`,
+    introDesc: `Miss là nhớ 
+Nhưng đôi khi miss là bỏ lỡ 
+Tôi miss cậu 🥰
+Nhưng cậu lại miss tôi 😞`,
     btnIntro: '^^HiHi^^',
     title: 'Yêu tớ không',
     desc: 'Tắt cái này đi không trả lời sẽ phải yêu Vũ suốt đời <3 =))',
